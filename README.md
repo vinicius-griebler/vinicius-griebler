@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Vinícius 😁
+# Bem-vindo(a) ao perfil do Vinícius 😁
 
  <div>
    <a href="https://github.com/vinicius-griebler">
