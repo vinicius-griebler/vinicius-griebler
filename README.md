@@ -16,8 +16,6 @@ Tenho focado meus estudos em JavaScript, Node.js, integrações de API, React co
 
    
 <br>
-<br>
-<br>
 
  <div>
    <a href="https://github.com/vinicius-griebler">
