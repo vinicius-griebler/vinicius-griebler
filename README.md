@@ -11,7 +11,7 @@ Tenho focado meus estudos em JavaScript, Node.js, integrações de API, React.js
 
    🚀 Explorando novas tecnologias e construindo interfaces responsivas, interativas e com foco na experiência do usuário (UX/UI)
 
-   🔧 Apaixonado por resolver problemas com código e sempre buscando evoluir como desenvolvedor
+   🔧 Apaixonado por resolver problemas com código e sempre buscando evoluir como desenvolvedor.
 
    
 <br>
