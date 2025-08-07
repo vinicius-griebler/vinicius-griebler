@@ -1,4 +1,5 @@
-# Bem-vindo(a) ao perfil do Vinícius 😁
+# Olá Bem Vindo ao meu perfil, me chamo Vinícius e sou Desenvolvedor Front-End! 😁
+
 
  <div>
    <a href="https://github.com/vinicius-griebler">
