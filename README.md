@@ -4,7 +4,7 @@ Desenvolvedor em formação, comprometido em criar soluções modernas, funciona
 Tenho focado meus estudos em JavaScript, Node.js, integrações de API, React com objetivo de transformar cada aprendizado em projetos reais ao longo da minha carreira em Análise e desenvolvimento de Sistemas.
 
 
-#👨‍💻 Sobre mim
+# 👨‍💻 Sobre mim
 
    🎓 Graduando em Análise e Desenvolvimento de Sistemas
    🧠 Estudando: HTML5, CSS3, JavaScript, Node.js, APIs REST, React.js e desenvolvimento Full Stack
