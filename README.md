@@ -31,7 +31,6 @@ Tenho focado meus estudos em JavaScript, Node.js, integrações de API, React co
  
 <br>
  
-### Pra conteúdo sobre programação me segue nas redes abaixo!
  
 <div> 
   <a href="https://www.linkedin.com/in/vin%C3%ADcius-griebler-05b4a4282/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
