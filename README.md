@@ -5,7 +5,6 @@ Tenho focado meus estudos em JavaScript, Node.js, integrações de API, React co
 
 
 # 👨‍💻 Sobre mim
-
    🎓 Graduando em Análise e Desenvolvimento de Sistemas
 
    🧠 Estudando: HTML5, CSS3, JavaScript, Node.js, APIs REST, React.js e desenvolvimento Full Stack
