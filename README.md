@@ -1,4 +1,4 @@
-# 👋 Olá, bem vindo ao meu perfil, me chamo Vinícius e sou Desenvolvedor Front-End! 😁
+# 👋 Olá, bem vindo ao meu perfil, me chamo Vinícius e sou Desenvolvedor Full stack! 😁
 
 Desenvolvedor em formação, comprometido em criar soluções modernas, funcionais e com propósitos.
 Tenho focado meus estudos em JavaScript, Node.js, integrações de API, React.js com objetivo de transformar cada aprendizado em projetos reais ao longo da minha carreira em Análise e desenvolvimento de Sistemas.
@@ -7,7 +7,7 @@ Tenho focado meus estudos em JavaScript, Node.js, integrações de API, React.js
 # 👨‍💻 Sobre mim
    🎓 Graduando em Análise e Desenvolvimento de Sistemas
 
-   🧠 Estudando: HTML5, CSS3, JavaScript, Node.js, APIs REST, React.js e desenvolvimento Full Stack
+   🧠 Estudando: React, Next.js, TypeScript, Node.js, SQL Server, Express & Docker
 
    🚀 Explorando novas tecnologias e construindo interfaces responsivas, interativas e com foco na experiência do usuário (UX/UI)
 
