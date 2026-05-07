@@ -1,7 +1,8 @@
 # 👋 Olá, bem vindo ao meu perfil, me chamo Vinícius e sou Desenvolvedor Full stack! 😁
 
 Desenvolvedor em formação, comprometido em criar soluções modernas, funcionais e com propósitos.
-Tenho focado meus estudos em JavaScript, Node.js, integrações de API, React.js com objetivo de transformar cada aprendizado em projetos reais ao longo da minha carreira em Análise e desenvolvimento de Sistemas.
+
+Tenho focado meus estudos em JavaScript e TypeScript,  Node.js, integrações de API, React.js e Next.js, Prisma, SQL Server e PostgreSQL, Docker com objetivo de transformar todos aprendizados em projetos reais ao longo da minha carreira em Análise e desenvolvimento de Sistemas.
 
 
 # 👨‍💻 Sobre mim
@@ -26,6 +27,20 @@ Tenho focado meus estudos em JavaScript, Node.js, integrações de API, React.js
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img align="center" alt="Next.js" height="30" width="40"
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
+
+  <img align="center" alt="Node.js" height="30" width="40"
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+
+  <img align="center" alt="PostgreSQL" height="30" width="40"
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
+
+  <img align="center" alt="Docker" height="30" width="40"
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+
+  <img align="center" alt="Prisma" height="30" width="40"
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original.svg">
 </div>
  
 <br>
