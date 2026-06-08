@@ -1,4 +1,4 @@
-# 👋 Olá, bem vindo ao meu perfil, me chamo Vinícius e sou Desenvolvedor Full stack! 😁
+# 👋 Olá, Bem vindo ao meu perfil, me chamo Vinícius e sou Desenvolvedor Full stack! 😁
 
 Desenvolvedor em formação, comprometido em criar soluções modernas, funcionais e com propósito.  
 Tenho focado meus estudos em JavaScript e TypeScript, Node.js, integrações de API, React.js e Next.js, Prisma, SQL Server e PostgreSQL, Docker, com o objetivo de transformar todos os aprendizados em projetos reais ao longo da minha carreira em Análise e Desenvolvimento de Sistemas.
